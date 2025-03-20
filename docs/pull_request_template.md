@@ -2,7 +2,7 @@
 
 ## Link to Product Tracker
 
-*This will be a link to the issue you are specifically tasked with resolving.*
+*(https://github.com/Yasjen7/quiz.uno/blob/main/.github/ISSUE_TEMPLATE/task-creation-document-.md)*
 
 ## Link to Figma/Zeplin
 
@@ -15,7 +15,7 @@
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
+- [x] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
@@ -23,7 +23,7 @@ _Put an `x` in the boxes that apply_
 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR.
 
-- [ ] All apps build locally (npm run build:all)
+- [x] All apps build locally (npm run build:all)
 - [ ] Lint and unit tests pass locally with my changes
 - [ ] In the case of UI changes, I have locally verified no new browser console warnings were observed
 - [ ] I have added necessary documentation (if appropriate)
@@ -31,8 +31,8 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 ## Further comments
 
-*If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...*
+*Two new files welcome.js getName.js were created and added to the local repo. Then first commit is set on the Feature-A branch. Followed by a git push and approval of the pull request.*
 
 ## Screenshots if applicable
 
-*Include screenshots in case of UI changes _adding change for demo*
+*Include screenshots in case of changes _adding change for demo*
