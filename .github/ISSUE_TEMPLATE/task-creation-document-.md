@@ -7,19 +7,20 @@ assignees: ''
 
 ---
 
-## Task Owner (Responsible): [First Name, Last Initial]
+## Task Owner (Responsible): Eric
 
-## Task Assignee (Accountable): [First Name, Last Initial]
+## Task Assignee (Accountable): Eric
 
 ## Task Deadline: [MM/DD/YYYY]
 
 ## Task Description:
 
-*Clearly describe the task, including what needs to be done and why.*
+*Responsible for greeting users and checking their names.*
 
 ## Acceptance Criteria:
 
-*Define specific criteria that must be met for the task to be considered complete. This sets clear expectations for the desired outcome.*
+*In order to see your changes on your remote branch, run the following command:
+git push --set-upstream origin feature-a. If done correctly, you should see a prompt that will ask you to ‘Compare & pull request’ once you’ve refreshed your webpage.*
 
 ## Estimation:
 
@@ -27,15 +28,15 @@ assignees: ''
 
 ## Dependencies:
 
-*Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.*
+*Compare and approve the pull request *
 
 ## Priority:
 
-*Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.*
+*Feature-A: Show a greeting message to user and ask for their name”*
 
 ## Task Type:
 
-*Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.*
+*development*
 
 ## Subtasks:
 
@@ -44,7 +45,7 @@ assignees: ''
 
 ## Testing Requirements:
 
-*Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.*
+*Successful greeting and users name request and input.*
 
 ## Documentation:
 
@@ -52,4 +53,4 @@ assignees: ''
 
 ## Definition of Done:
 
-*Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.*
+*Code an outcome is affective and working as intended*
